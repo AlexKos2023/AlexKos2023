@@ -3,9 +3,9 @@
 Ищу удаленную работу. Готов как к постоянной занятости, так и к проектной работе / менторству.
 ---
 ## 📫 Контакты и связь
-[![Email](https://img.shields.io/badge/Email-kos__kpi%40mail.ru-blue?style=flat-square&logo=gmail)](mailto:kos_kpi@mail.ru)
-[![Phone](https://img.shields.io/badge/Phone-+7%20(977)%20996--69--43-green?style=flat-square&logo=whatsapp)](tel:+79779966943)
-[![GitHub](https://img.shields.io/badge/GitHub-AlexKos2023-black?style=flat-square&logo=github)](https://github.com/AlexKos2023)
+*   **Email:** [kos_kpi@mail.ru](mailto:kos_kpi@mail.ru)
+*   **Телефон / WhatsApp:** +7 (977) 996-69-43
+*   **GitHub:** [github.com/AlexKos2023](https://github.com/AlexKos2023)
 ---
 ## 🎯 Профессиональный профиль
 Инженер-электромеханик (высшее военное техническое образование) с 20-летним опытом руководства, автоматизации процессов и обучения. 
@@ -14,46 +14,56 @@
 * Применяю ИИ-ассистентов (LLM, Prompt Engineering) для оптимизации написания тестов, составления системных промтов и автоматизации обучения.
 ---
 ## 🛠 Навыки и стек технологий
-<table>
-  <tr>
-    <td><b>Backend & API</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python" alt="Python"/>
-      <img src="https://img.shields.io/badge/Django-5.2-green?style=flat-square&logo=django" alt="Django"/>
-      <img src="https://img.shields.io/badge/Django%20REST%20Framework-DRF-red?style=flat-square" alt="DRF"/>
-      <img src="https://img.shields.io/badge/FastAPI-0.100-009688?style=flat-square&logo=fastapi" alt="FastAPI"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Автоматизация & RPA</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Selenium%20WebDriver-4.44-orange?style=flat-square&logo=selenium" alt="Selenium"/>
-      <img src="https://img.shields.io/badge/Windows%20API%20(ctypes)-Active-blue?style=flat-square" alt="ctypes"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Базы данных & Анализ</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-Active-336791?style=flat-square&logo=postgresql" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/SQLite-Active-003B57?style=flat-square&logo=sqlite" alt="SQLite"/>
-      <img src="https://img.shields.io/badge/Pandas-2.3-150458?style=flat-square&logo=pandas" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=flat-square&logo=powerbi" alt="Power BI"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Генерация документов</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/ReportLab%20(PDF)-Active-red?style=flat-square" alt="ReportLab"/>
-      <img src="https://img.shields.io/badge/python--docx-Active-blue?style=flat-square" alt="python-docx"/>
-      <img src="https://img.shields.io/badge/openpyxl%20(XLSX)-Active-green?style=flat-square" alt="openpyxl"/>
-    </td>
-  </tr>
-</table>
+|
+ Направление 
+|
+ Инструменты и технологии 
+|
+|
+:---
+|
+:---
+|
+|
+**
+Серверная часть и API
+**
+|
+ Python 3.11, Django, Django REST Framework (DRF), FastAPI, ООП 
+|
+|
+**
+Автоматизация & RPA
+**
+|
+ Selenium WebDriver, Windows API (ctypes), автоматизация UI 
+|
+|
+**
+Базы данных & Анализ
+**
+|
+ PostgreSQL, SQLite, Pandas, NumPy, Power BI 
+|
+|
+**
+Генерация документов
+**
+|
+ ReportLab (PDF-генерация), python-docx (Word), openpyxl (Excel) 
+|
+|
+**
+Инфраструктура и AI
+**
+|
+ Git/GitHub, pytest/unittest, Docker (базовый), Prompt Engineering, LLM API 
+|
 ---
 ## 💻 Проекты и кейсы
 ### 🌟 [School Management & EMERCOM (МЧС) Automator](https://github.com/AlexKos2023/school_trip_base)
 *Система планирования детско-юношеских походов, CRM участников и автоматизация отчетности МЧС РФ.*
-* **Что под капотом:** Python, Django (ORM/Views/Templates), Selenium WebDriver, ctypes (Windows API), ReportLab (генерация PDF), Pandas.
+* **Стек:** Python, Django (ORM/Views/Templates), Selenium WebDriver, ctypes (Windows API), ReportLab (генерация PDF), Pandas.
 * **Главный результат:** Модуль на Selenium автоматически заполняет сложную форму регистрации туристических групп на официальном портале МЧС России (`forms.mchs.gov.ru`), сокращая время подачи заявки с 1 часа до 2 минут. Окно браузера автоматически выводится на передний план средствами Windows API (`ctypes`) для финальной проверки и отправки.
 ### 🔗 [Двое из ларца](https://dvoeizlarza.ru/)
 *Действующий веб-проект, запущенный на Django бэкенде.*
